@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.hoje {
+    color: darkred;
+}
+
+.amanha {
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.a_dentro_h2 {
+    color: seagreen;
+}
+
+p {
+    font-size: 20px;
+}
