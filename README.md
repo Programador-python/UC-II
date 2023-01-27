@@ -1,9 +1,9 @@
-##  🚀 EDITOR DE PLUGINS
+##  🚀 Editor de Plugins
 
 - Live server => Cria um mini servidor na máquina, aonde tudo que for editado no código será renderizado automaticamente na página web do browser.
 - Prettier => Organiza o código, ajuda na indentação.
 
-## 🚀 ATALHOS DO TECLADO NO VSCODE
+## 🚀 Atalhos do teclado no VScode
 
 📄 CTRL + C - Copia (a seleção ou a linha) <br>
 📄 CTRL + X - Recorta <br>
