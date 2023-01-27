@@ -58,6 +58,8 @@ https://dribbble.com/ <br>
 📌Convertor de imagens<br>
 https://convert-my-image.com/imageconverter_pt <br>
 
+📌 Google Fonts
+https://fonts.google.com/
 <br><br>
 
 
