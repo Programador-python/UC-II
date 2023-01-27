@@ -12,6 +12,7 @@
 📄 CTRL + SHIFT + Z - Refaz <br>
 📄 ALT + SETA - Anda com a linha <br>
 📄 CTRL + D - Seleciona a palavra atual e a próxima semelhante <br>
+📄 SHITF + ALT + SETA - Duplica a linha atual <br>
 📄 CTRL + / , <!-- --> ou // - Comentário <br>
 
 ## 🚀 Links úteis:
