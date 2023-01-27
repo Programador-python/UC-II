@@ -1,20 +1,20 @@
-##  EDITOR DE PLUGINS
+##  🚀 EDITOR DE PLUGINS
 
 - Live server => Cria um mini servidor na máquina, aonde tudo que for editado no código será renderizado automaticamente na página web do browser.
 - Prettier => Organiza o código, ajuda na indentação.
 
-## ATALHOS DO TECLADO NO VSCODE
+## 🚀 ATALHOS DO TECLADO NO VSCODE
 
-CTRL + C - Copia (a seleção ou a linha) <br>
-CTRL + X - Recorta <br>
-CTRL + V - Cola <br>
-CTRL + Z - Desfaz <br>
-CTRL + SHIFT + Z - Refaz <br>
-ALT + SETA - Anda com a linha <br>
-CTRL + D - Seleciona a palavra atual e a próxima semelhante <br>
-CTRL + / , <!-- --> ou // - Comentário <br>
+📄 CTRL + C - Copia (a seleção ou a linha) <br>
+📄 CTRL + X - Recorta <br>
+📄 CTRL + V - Cola <br>
+📄 CTRL + Z - Desfaz <br>
+📄 CTRL + SHIFT + Z - Refaz <br>
+📄 ALT + SETA - Anda com a linha <br>
+📄 CTRL + D - Seleciona a palavra atual e a próxima semelhante <br>
+📄 CTRL + / , <!-- --> ou // - Comentário <br>
 
-## Links úteis:
+## 🚀 Links úteis:
 
 📌Fotos gratuitas em alta definição<br>
 https://unsplash.com/, <br>
