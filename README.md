@@ -60,5 +60,3 @@ https://convert-my-image.com/imageconverter_pt <br>
 <br><br>
 
 
-![image](https://user-images.githubusercontent.com/123556524/214991540-3cc4eaec-4dde-4e15-b23e-c1f75297aa53.png)
-
