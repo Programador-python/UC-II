@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    background: black;
+    color: #FEBE01;
+}
+
+h1 {
+    background: black;
+    color: #FEBE01;
+}
+
+thead {
+    background: darkblue;
+    color: white;
+}
+
+tbody {
+    background: cyan;
+}
+
+tfoot {
+    background: #FEBE01;
+}
