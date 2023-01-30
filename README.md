@@ -25,9 +25,17 @@
 📄 strong => Dá importância em determinado conteúdo;  <br>
 📄 header => É o cabeçalho da página. Normalmente onde fica localizado o menu de navegação, logo e título principal;  <br>
 📄 main => É o conteúdo da página em si;  <br>
-📄 section => Agrupa vários conteúdos sobre um mesmo assunto.
+📄 section => Agrupa vários conteúdos sobre um mesmo assunto. <br>
 📄 article => É um artigo que não possui ligação com outras parte do site. Normalmente um blog. <br>
 📄 footer => É o rodapé da página. Ficam informações sobre contato e desenvolvimento do site. <br>
+<br>
+📄 table => Inicia uma tabela no HTML; <br>
+📄 thead => Representa o cabeçalho da tabela, geralmente composta por células título; <br>
+📄 tbody => Representa o corpo da tabela; <br>
+📄 tfoot => Representa o rodapé da tabela; <br>
+📄 tr => Representa uma linha; <br>
+📄 td => Representa uma célula; <br>
+📄 th => Ganha um destaque em relação às demais células; <br>
 
 ## 🚀 Links úteis:
 
