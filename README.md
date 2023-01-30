@@ -14,6 +14,20 @@
 📄 CTRL + D - Seleciona a palavra atual e a próxima semelhante <br>
 📄 SHITF + ALT + SETA - Duplica a linha atual <br>
 📄 CTRL + / , <!-- --> ou // - Comentário <br>
+📄 CTRL + D = Seleciona a próxima tag/palavra igual a selecionada atualmente <br>
+
+## 🚀 HTML semântico
+
+📄 p => Marca um parágrafo;  <br>
+📄 h1,h2,h3,h4,h5,h6 => Marcam diferentes níveis de títulos;  <br>
+📄 a => Marca um link;  <br>
+📄 em => Dá enfase em determinado conteúdo;  <br>
+📄 strong => Dá importância em determinado conteúdo;  <br>
+📄 header => É o cabeçalho da página. Normalmente onde fica localizado o menu de navegação, logo e título principal;  <br>
+📄 main => É o conteúdo da página em si;  <br>
+📄 section => Agrupa vários conteúdos sobre um mesmo assunto.
+📄 article => É um artigo que não possui ligação com outras parte do site. Normalmente um blog. <br>
+📄 footer => É o rodapé da página. Ficam informações sobre contato e desenvolvimento do site. <br>
 
 ## 🚀 Links úteis:
 
