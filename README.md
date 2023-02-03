@@ -15,6 +15,8 @@
 📄 SHITF + ALT + SETA - Duplica a linha atual <br>
 📄 CTRL + / , <!-- --> ou // - Comentário <br>
 📄 CTRL + D = Seleciona a próxima tag/palavra igual a selecionada atualmente <br>
+📄 CTRL + ; = Comentar o conteúdo selecionado <br>
+📄 CTRL + F = Pesquisa o caracter/palavra informado <br>
 
 ## 🚀 HTML semântico
 
