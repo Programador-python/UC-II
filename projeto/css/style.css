@@ -1,0 +1,50 @@
+/* Configuração geral*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+a {
+    background: #febe01;
+    color: #332100;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* Css do contato.html */
+
+.cont_h1 {
+    text-align: center;
+}
+
+
+.cont_p {
+    color: #b2b2b2;
+}
+
+/* Css do produto.html */
+
+.produto_span {
+    color: #febe01;
+}
+
+.item {
+    background: #111111;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin: 0px;
+    color: #fff;
+}
+
+/* Css do index.html */
+
+
+
+/* Css do sobre.html */
