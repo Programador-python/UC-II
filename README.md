@@ -41,6 +41,9 @@
 
 ## 🚀 Tags Formulário
 
+📄 form => A tag form é utilizada para envolver os campos de um formulário. <br>
+📄 action="” => O atributo action indica o arquivo/url que será ativado ao enviarmos o formulário. <br>
+📄 method="” => POST (envio de informações) e GET (busca de informações). <br>
 
 ## 🚀 CSS
 
