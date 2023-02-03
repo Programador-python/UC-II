@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <title>Sparta - Contato</title>
+ <link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+ <header>
+  <nav>
+   <a href="../index.html">HOME</a>
+   <a href="sobre.html">SOBRE</a>
+   <a href="contato.html">CONTATO</a>
+  </nav>
+  <h1 class="cont_h1">Nossos contatos:</h1>
+ </header>
+
+ <main>
+  <section>
+   <form action="contato.html">
+    <div>
+     <label for="email">E-mail</label>
+     <input type="email" 
+            id="email"  
+            placeholder="Digite o seu e-mail..." 
+            required
+            value="@gmail.com"
+            />
+
+    </div>
+    <br>
+    <div>
+     <label for="senha">Senha</label>
+     <input type="password" 
+            id="senha" 
+            placeholder="Digite a sua senha..."
+            maxlength="5" 
+            />
+    </div>
+    <br>
+
+    <div>
+     <label for="cor">Parcelas:</label>
+     <select name="corfavorita" id="cor">
+      <option value=""></option>
+      <option value="">1x de R$100</option>
+      <option value="">3x de R$50</option>
+      <option value="">5x de R$60</option>
+      <option value="">7x de R$100</option>
+     </select>
+    </div>
+
+
+
+    <button>Enviar</button>
+   </form>
+  </section>
+ </main>
+ <hr>
+ <footer class="my_foot">
+  <p class="cont_p">Desenvolvido pela
+   <em>CMDigital.</em>
+  </p>
+
+ </footer>
+
+</body>
+
+</html>
