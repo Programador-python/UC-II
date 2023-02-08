@@ -1,1 +1,46 @@
 
+<header>
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top py-2 box-shadow">
+   <a href="index.html" class="navbar-brand logo">SPARTA</a>
+
+   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+   </button>
+
+   <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+
+     <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+       aria-haspopup="true" aria-expanded="false">Produtos</a>
+       
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+       <a href="#" class="dropdown-item">Importados</a>
+       <a href="#" class="dropdown-item">Nacionais</a>
+       <a href="#" class="dropdown-item">Outlet</a>
+
+
+     </li>
+
+     <li class="nav-item">
+      <a href="sobre.html" class="nav-link">Sobre</a>
+     </li>
+
+     <li class="nav-item">
+      <a href="contato.html" class="nav-link">Contato</a>
+     </li>
+
+     <li class="nav-item">
+      <a href="#" class="nav-link">Login</a>
+     </li>
+
+     <li class="nav-item">
+      <a href="inscricao.html" class="btn btn-outline-primary ml-md-2">Inscreva-se</a>
+     </li>
+
+    </ul>
+
+   </div>
+  </nav>
+ </header>
